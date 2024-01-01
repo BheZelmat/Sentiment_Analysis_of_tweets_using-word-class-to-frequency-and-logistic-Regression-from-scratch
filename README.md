@@ -2,7 +2,7 @@
 
 
 
-![alt text](https://github.com/BheZelmat/Elevating-Airline-Customer-Experience-An-Analytical-and-Predictive-Approach-to-Satisfaction-Metrics-/blob/main/image.png?raw=true)
+![alt text](https://github.com/BheZelmat/Sentiment_Analysis_of_tweets_using-word-class-to-frequency-and-logistic-Regression-from-scratch/img_.png?raw=true)
 
 ## Overview
 This project demonstrates sentiment analysis on tweets using logistic regression implemented from scratch. It offers a practical approach to understanding how sentiment analysis can be applied to social media data, specifically focusing on analyzing the sentiment of tweets.

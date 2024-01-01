@@ -1,0 +1,28 @@
+# Sentiment Analysis of tweets using (word,class) to frequency and logistic Regression classifier from scratch
+
+
+
+![alt text](https://github.com/BheZelmat/Elevating-Airline-Customer-Experience-An-Analytical-and-Predictive-Approach-to-Satisfaction-Metrics-/blob/main/image.png?raw=true)
+
+## Overview
+This project demonstrates sentiment analysis on tweets using logistic regression implemented from scratch. It offers a practical approach to understanding how sentiment analysis can be applied to social media data, specifically focusing on analyzing the sentiment of tweets.
+
+## Features
+Data Preprocessing: In-depth preprocessing of tweet data including cleaning, tokenization, and normalization.
+Exploratory Data Analysis (EDA): Visual analysis of data distribution and characteristics.
+Logistic Regression from Scratch: Custom implementation of logistic regression for binary classification of tweet sentiments.
+Model Evaluation: Comprehensive evaluation of the model's performance using standard metrics.
+## Data
+The project utilizes a dataset comprising tweets and their corresponding sentiment labels, focusing on the binary classification of sentiments.
+
+## Libraries Used
+Natural Language Toolkit (nltk)
+Pandas for data manipulation
+NumPy for numerical operations
+Matplotlib and Seaborn for data visualization
+## Objective
+The primary goal is to demonstrate the application of logistic regression in sentiment analysis and provide a foundational understanding of Natural Language Processing (NLP) techniques.
+
+
+## Author 
+B Houssem E Zelmat 
